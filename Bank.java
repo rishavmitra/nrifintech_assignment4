@@ -1,3 +1,53 @@
+/*Output
+Sign up first
+
+
+Enter name: Rishav Mitra
+Enter user name for login: rishav23
+Enter password: rishav23
+Enter SSN: 12345678
+SSN not valid
+Sign up first
+
+
+Enter name: Rishav Mitra
+Enter user name for login: rishav23
+Enter password: rishav23
+Enter SSN: 123456789
+Enter address: Sikkim
+Enter email address: rishavm@trainee.nrifintech.com
+Enter age: 17
+Not valid age (Should be more than 18 years old)
+Sign up first
+
+
+Enter name: Rishav Mitra
+Enter user name for login: rishav23
+Enter password: rishav23
+Enter SSN: 123456789
+Enter address: Sikkim
+Enter email address: rishavm@trainee.nrifintech.com
+Enter age: 23
+Enter phone number: 9382699226
+Choose your account
+1.Savings
+(Any Key)Current
+
+1
+Select option: 
+1.Deposit
+2.Withdrawal
+3.Check balance
+4.Change password
+5.Edit profile
+6.Display Profile details
+
+6
+customer [custName=Rishav Mitra, ssNumber=123456789, emAddr=rishavm@trainee.nrifintech.com, addr=Sikkim, age=23, phNum=9382699226]
+Do you want to continue?
+no
+Enter user name for login: 
+**/
 import java.util.ArrayList;
 import java.util.Scanner;
 
